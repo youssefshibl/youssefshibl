@@ -2,7 +2,9 @@
   <img align="center"  width="400px" src="https://github.com/youssefshibl/youssefshibl/assets/63800183/db9503a1-49fb-49eb-85b6-aed5030e1909" />
 <br/>
 <br/>
-"You don't have to be great to start, but you have to start to be great - Zig Ziglar"
+"In the end, it's not the years in your life that count. It's the life in your years." Abraham Lincoln
+
+
 </div>
 
 ## Hi there 👋 , me [Youssef Shebl](https://www.linkedin.com/in/youssefshebl/)
