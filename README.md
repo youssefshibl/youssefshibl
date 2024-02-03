@@ -87,7 +87,7 @@
 <br/>
 <br/>
 
-# <img src="https://cdn-bmppa.nitrocdn.com/OwHkoZsKzmsVYqLHTCkvxAdZGiLIbPDB/assets/images/optimized/rev-a0f70d8/24.media.tumblr.com/tumblr_m9010sXDqf1qdhag9o1_500.gif" width="50">  Latest articles
+# <img src="https://cdn-bmppa.nitrocdn.com/OwHkoZsKzmsVYqLHTCkvxAdZGiLIbPDB/assets/images/optimized/rev-a0f70d8/24.media.tumblr.com/tumblr_m9010sXDqf1qdhag9o1_500.gif" width="80">  Latest articles
 
 <br/>
 
