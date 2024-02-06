@@ -45,6 +45,13 @@
  <img align="left" width="40"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" />
 </a>
 
+<!-- youtube -->
+
+<a href="https://www.youtube.com/@youssefshebl2259">
+  <img align="left" alt="Youssef Shebl | youtube" width="40px" src="https://img.icons8.com/fluency/48/youtube-play.png" />
+</a>
+
+
 <!-- codepen -->
 
 <a href="https://codepen.io/youssefshibl">
