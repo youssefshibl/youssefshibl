@@ -74,6 +74,8 @@
 
 - 🌱 I’m currently learning **React, System Desing**.
 
+- 📑 Book read now **System Design Interview**. 
+
 - 🥽 i'm interested in **Backend Development & Systems Architecture & DevOps**.
 
 - 📝 Technical Blogger in **[HashNode](https://youssefshebl.hashnode.dev/)**.
