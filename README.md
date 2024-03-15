@@ -68,7 +68,7 @@
 
 ## 🧊  About me 📇
 
-- 🧢 Software Engineer in **Research Center of the Egyptian Ministry of Defense**   .
+- 🧢 Software Engineer @ **Storexweb**   .
 
 - 🎓 Graduated From **Faculty of Engineering Mansoura University**.
 
