@@ -74,7 +74,7 @@
 
 - 🌱 I’m currently learning **React, System Desing**.
 
-- 📑 Book read now **System Design Interview**. 
+- 📑 Currently reading a book **Kirill Bobrov - Grokking Concurrency**. 
 
 - 🥽 i'm interested in **Backend Development & Systems Architecture & DevOps**.
 
