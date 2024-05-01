@@ -12,6 +12,10 @@
 <div align="center">
 
 <br/>
+<a href="https://youssefshibl.github.io/me/">
+  <img align="left" alt="Youssef Shebl | me" width="40px" src="https://cdn-icons-png.flaticon.com/512/1993/1993077.png" />
+</a>
+
 
 <a href="https://www.linkedin.com/in/youssefshebl/">
   <img align="left" alt="Youssef Shebl | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
@@ -74,11 +78,11 @@
 
 - 🌱 I’m currently learning **React, System Desing**.
 
-- 📑 Currently reading a book **Kirill Bobrov - Grokking Concurrency**. 
+- 📑 Currently reading a book **Alex Petrov - Database Internals**. 
 
 - 🥽 i'm interested in **Backend Development & Systems Architecture & DevOps**.
 
-- 📝 Technical Blogger in **[HashNode](https://youssefshebl.hashnode.dev/)**.
+- 📝 Technical Blogger in **[Medium](https://medium.com/@youssefshibl000)** **[HashNode](https://youssefshebl.hashnode.dev/)** .
 
 
 <br/>
