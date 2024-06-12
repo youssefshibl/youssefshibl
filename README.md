@@ -31,6 +31,12 @@
   <img align="left" alt="Youssef Shebl | Twitter" width="40px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
 
+<!-- medium -->
+
+<a href="https://medium.com/@youssefshibl000">
+  <img align="left" alt="Youssef Shebl | Hashnode" width="40px" src="https://img.icons8.com/ios-filled/250/medium-monogram--v1.png" />
+</a>
+
 <!-- hashnode -->
 
 <a href="https://youssefshebl.hashnode.dev/">
