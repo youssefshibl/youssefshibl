@@ -12,7 +12,7 @@
 <div align="center">
 
 <br/>
-<a href="https://youssefshibl.github.io/me/">
+<a href="https://youssefshebl.gitbook.io/shebl">
   <img align="left" alt="Youssef Shebl | me" width="40px" src="https://cdn-icons-png.flaticon.com/512/1993/1993077.png" />
 </a>
 
