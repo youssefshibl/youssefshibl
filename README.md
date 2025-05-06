@@ -99,7 +99,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,mysql,php,laravel,vue,java,maven,bash,linux,go,k8s,docker,git,githubactions,jenkins,ansible,aws,python,mongodb,nodejs,jest,express,electron,bootstrap,sass,graphql,redis,rabbitmq,kafka,nginx,typescript&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,mysql,php,laravel,vue,java,maven,bash,linux,go,k8s,docker,git,githubactions,jenkins,ansible,aws,python,mongodb,nodejs,jest,express,nestjs,electron,bootstrap,sass,graphql,redis,rabbitmq,kafka,nginx,typescript&perline=10&theme=light)](https://skillicons.dev)
 
 </div>
 
